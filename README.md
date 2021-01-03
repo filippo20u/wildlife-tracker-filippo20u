@@ -44,7 +44,7 @@ update method working!
 
 DELETE localhost:3000/animals/4  Send (done)
 
-# Amanda Code review:
+# Amanda Code review: Below a summary, I hope it will help save you time :)
 
 #5) Story: As the consumer of the API I can create a sighting of an animal with date (use the datetime datatype), latitude and longitude.
 #Hint: An animal has_many sightings. (rails g resource Sighting animal_id:integer ...)
